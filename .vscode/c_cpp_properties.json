@@ -1,0 +1,43 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "c:/Users/codya/microblog/lab0/include",
+                "c:/Users/codya/microblog/lab0/src",
+                "c:/Users/codya/microblog/lab0/.pio/libdeps/native/Unity/src",
+                "c:/Users/codya/microblog/lab0/.pio/build/native/unity_config",
+                "c:/Users/codya/microblog/lab0/test",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/codya/microblog/lab0/include",
+                    "c:/Users/codya/microblog/lab0/src",
+                    "c:/Users/codya/microblog/lab0/.pio/libdeps/native/Unity/src",
+                    "c:/Users/codya/microblog/lab0/.pio/build/native/unity_config",
+                    "c:/Users/codya/microblog/lab0/test",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60111",
+                "PIO_UNIT_TESTING",
+                "UNIT_TEST",
+                "UNITY_INCLUDE_CONFIG_H",
+                ""
+            ],
+            "compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
